@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Phamelz
-- 👀 I’m interested in learning and development.
+- 👀 I’m interested in learning and development of software
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on projects...
 - 📫 How to reach me phaamelz@gmail.com
